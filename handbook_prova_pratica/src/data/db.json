@@ -1,0 +1,29 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Natão",
+      "email": "natao@user.com"
+    },
+    {
+      "id": "2",
+      "nome": "Claudio",
+      "email": "claudio@user.com"
+    },
+    {
+      "id": "3",
+      "nome": "Santana",
+      "email": "santana@user.com"
+    }
+  ],
+  "livros": [
+    {
+      "key": 1,
+      "id": "1",
+      "titulo": "",
+      "nome_autor": "",
+      "genero": "",
+      "status": ""
+    }
+  ]
+}

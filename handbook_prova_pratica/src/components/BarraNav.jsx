@@ -30,7 +30,7 @@ const BarraNav = () => {
 
             <Nav className="justify-content-end">
               <Navbar.Text style={{ color: "white", marginRight: "5px" }}>
-                Usuário: {usuarioNome}
+                Usuário: "Visitante"
               </Navbar.Text>
 
               {usuarioNome === "Visitante" ? (
